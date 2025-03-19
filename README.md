@@ -1,4 +1,4 @@
-**🚀 Introdução**
+## **🚀 Introdução**
 
 Nos últimos anos, a evolução da tecnologia e o aumento exponencial na demanda por serviços digitais têm impulsionado a necessidade de sistemas altamente escaláveis, disponíveis e resilientes. Em um cenário onde **⏳ poucos segundos de inatividade podem resultar em perdas financeiras significativas**, a adoção de arquiteturas modernas que garantam desempenho contínuo tornou-se essencial para empresas e organizações que dependem de infraestruturas tecnológicas robustas. Nesse contexto, o ** Kubernetes 🌐** surge como uma solução poderosa para orquestrar cargas de trabalho distribuídas, permitindo que múltiplas máquinas trabalhem em conjunto como um único sistema coeso.
 

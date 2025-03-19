@@ -1,9 +1,8 @@
 ## **🚀 Introdução**
 
-Nos últimos anos, a evolução da tecnologia e o aumento exponencial na demanda por serviços digitais têm impulsionado a necessidade de sistemas altamente escaláveis, disponíveis e resilientes. Em um cenário onde **⏳ poucos segundos de inatividade podem resultar em perdas financeiras significativas**, a adoção de arquiteturas modernas que garantam desempenho contínuo tornou-se essencial para empresas e organizações que dependem de infraestruturas tecnológicas robustas. Nesse contexto, o ![image](https://github.com/user-attachments/assets/1e5c928d-9c77-486a-9950-9508a0fd8a8a) surge como uma solução poderosa para orquestrar cargas de trabalho distribuídas, permitindo que múltiplas máquinas trabalhem em conjunto como um único sistema coeso.
+Nos últimos anos, a evolução da tecnologia e o aumento exponencial na demanda por serviços digitais têm impulsionado a necessidade de sistemas altamente escaláveis, disponíveis e resilientes. Em um cenário onde **⏳ poucos segundos de inatividade podem resultar em perdas financeiras significativas**, a adoção de arquiteturas modernas que garantam desempenho contínuo tornou-se essencial para empresas e organizações que dependem de infraestruturas tecnológicas robustas. Nesse contexto, o <img src="https://raw.githubusercontent.com/nicolasyassuda/cluster-kubernetes/blob/main/imgs/kubernetes-icon.png" alt="Logo Kubernetes" width="24" height="24" title="Kubernetes"> surge como uma solução poderosa para orquestrar cargas de trabalho distribuídas, permitindo que múltiplas máquinas trabalhem em conjunto como um único sistema coeso.
 
 ---
-
 ### 💡 **Objetivo do Projeto**
 
 Este projeto explora a implementação de um **cluster Kubernetes** composto por **24 máquinas**, demonstrando como a **alta escalabilidade ⬆️**, **disponibilidade 🔒** e **resiliência 🛡️** podem ser alcançadas em sistemas modernos. 

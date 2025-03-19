@@ -23,10 +23,9 @@ A arquitetura foi projetada para garantir máxima eficiência e confiabilidade:
 ### 🌐 **Arquitetura do Projeto**  
 
 A arquitetura do cluster Kubernetes foi projetada para garantir alta disponibilidade , escalabilidade  e resiliência , proporcionando uma infraestrutura robusta para aplicações modernas. Abaixo está um diagrama simplificado da estrutura, seguido de uma descrição detalhada de cada componente: 
-<div style="width:100%; display:flex; justify-content:center; align-items:center;">
-  <img src="https://github.com/nicolasyassuda/cluster-kubernetes/blob/main/imgs/kubernetes-icon.png" alt="Logo Kubernetes" width="24" height="24" title="Kubernetes">
+<div align="center">
+  <img src="https://github.com/nicolasyassuda/cluster-kubernetes/blob/main/imgs/Architecture.jpg" alt="Arquitetura" width="600" title="Arqutetura">
 </div>
-
 
 ### 🎯 **Por Que Isso é Importante?**
 
